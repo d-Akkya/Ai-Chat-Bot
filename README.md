@@ -1,10 +1,9 @@
 # Ai-AutoReply-ChatBot
 
-## 📜 Project Description
 This project is a Python-based AI-powered Autoreply Chatbot integrated with OpenAI's API. It is designed to provide automated responses on behalf of users across multiple social media platforms like WhatsApp, Instagram & Facebook. The chatbot uses Natural Language Processing (NLP) to understand and respond in multiple languages, making it ideal for handling customer inquiries, personal interactions & automated messaging.
 
 ## 🛠️ Features
-- **Platform Integration**: Works seamlessly on WhatsApp, Instagram, and Facebook using platform-specific APIs.
+- **Platform Integration**: Works seamlessly on WhatsApp, Instagram & Facebook using platform-specific APIs.
 - **Multi-Language Support**: Utilizes OpenAI's capabilities to auto-reply in various languages based on user input.
 - **Customizable Responses**: Tailor responses according to user needs using OpenAI's prompt engineering.
 - **24/7 Availability**: Automates social media interactions, providing quick responses to keep users engaged.
@@ -59,10 +58,10 @@ The chatbot will now automatically reply on your connected social media platform
 ## 📋 Example Usage
 Send a message on WhatsApp or Instagram, and the chatbot will respond based on the context:
 - **User**: "Hey, can you help me with my order?"
-- **Chatbot**: "Sure! Please provide your order number, and I'll check the details for you."
+- **Chatbot**: "Sure! Please provide your order number & I'll check the details for you."
 
 ## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request.
+Contributions are welcome! Feel free to fork this repository, create a branch & submit a pull request.
 
 ## 📞 Contact
 For any queries or suggestions, please reach out :
