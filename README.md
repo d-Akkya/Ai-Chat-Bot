@@ -63,3 +63,10 @@ Send a message on WhatsApp or Instagram, and the chatbot will respond based on t
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request.
+
+## 📞 Contact
+For any queries or suggestions, please reach out :
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshbamane26@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-akkya/)
+         [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/d_akkya_007/)
